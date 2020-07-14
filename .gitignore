@@ -1,0 +1,6 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+Notebook_Scraping.Rmd
+R/fromWeb/*
